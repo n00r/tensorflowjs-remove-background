@@ -1,4 +1,4 @@
-# tensorflowjs-remove-background
+# tensorflowjs-remove-background.
 ![CI/CD](https://github.com/poly-glot/tensorflowjs-remove-background/workflows/CI/CD/badge.svg)
 [![codecov](https://codecov.io/gh/poly-glot/tensorflowjs-remove-background/branch/master/graph/badge.svg)](https://codecov.io/gh/poly-glot/tensorflowjs-remove-background)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/poly-glot/tensorflowjs-remove-background)
